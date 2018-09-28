@@ -1,4 +1,15 @@
-<b>PRIVACY POLICY FOR CHARADESAPP</b>
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>CharadesApp Privacy Policy</title>
+</head>
+
+<body>
+    <main>
+       <b>PRIVACY POLICY FOR CHARADESAPP</b>
 This privacy policy governs your use of the software application App Name (“CharadesApp”) for mobile devices that was created by artGS. The Application is Basic description of the app (features, functionality and content)
 
 
@@ -40,3 +51,7 @@ By using the Application, you are consenting to our processing of your informati
 
 <b>Contact us</b>
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at artgs@outlook.com.br
+    </main>
+</body>
+
+</html>
